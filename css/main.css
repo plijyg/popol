@@ -1,3 +1,7 @@
 @charset "utf-8";
 
-.work .s1 { height: 500px; }
+.work .s1 { height: 530px; }
+
+.work .desc .btn_more { display: flex; justify-content: center; gap: 10px; }
+.work .desc span { border-color: #000; }
+.work .desc span:hover { background: #000; color: #fff; }
